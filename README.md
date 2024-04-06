@@ -1,2 +1,3 @@
 # Home-Decor
-This is our group project of Advance Database Design in semester 2 of web development. 
+Group Name : Crazy coders
+Section 9, Web development
